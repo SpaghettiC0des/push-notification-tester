@@ -2,6 +2,11 @@
     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
     "editor.formatOnSave": true,
     "cSpell.words": [
-        "Chakra"
-    ]
+        "Chakra",
+        "codepaths",
+        "performant",
+        "transpiled",
+        "tsbuildinfo"
+    ],
+    "eslint.format.enable": true
 }
